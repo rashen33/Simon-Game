@@ -1,7 +1,4 @@
 # Simon-Game
-# Simon Game
-
-![Simon Game](link_to_screenshot.png)
 
 Welcome to the Simon Game! This is a digital version of the classic Simon memory game built using JavaScript, HTML, and CSS.
 
@@ -68,10 +65,6 @@ Contributions are always welcome! If you have any ideas, suggestions, or bug fix
    ```
 
 5. Submit a pull request detailing your changes and improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
